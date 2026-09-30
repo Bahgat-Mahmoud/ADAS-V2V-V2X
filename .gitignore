@@ -1,0 +1,12 @@
+# Build output
+Debug/
+Release/
+build/
+
+# IDE settings
+.settings/
+
+# Generated binaries
+*.elf
+*.hex
+*.map
